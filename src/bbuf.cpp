@@ -1,5 +1,5 @@
 #include "../inc/bbuf.h"
-
+niaho
 /**
  * BBuf constructor
  * Reserves specified size in internal vector
