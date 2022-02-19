@@ -1,4 +1,4 @@
-#include "../inc/core.h"
+#X:\git_test\include "../inc/core.h"
 #pragma comment(lib, "gdi32.lib")
 
 namespace global {
@@ -28,6 +28,8 @@ public:
 		SIZE_T ManagerHandleTableEntry = NULL;
 		SIZE_T ManagerKernelObj = NULL;
 		SIZE_T ManagerpvScan0 = NULL;
+
+		this is the dev commit
 
 		if (Ps().x86()) {
 			ManagerHandleTableEntry = GdiSharedHandleTable + ((SIZE_T)h_manager & 0xffff) * sizeof(global::_GDI_CELL);
@@ -102,7 +104,7 @@ public:
 
 #include <stdio.h>
 
-int main() {
+int main() {X:\git_test\X:\git_test\X:\git_test\
 	master_1;
 	bug fix
 	Rw x;
