@@ -106,6 +106,7 @@ int main() {
 	master_1;
 	bug fix
 	Rw x;
+	xxxxx
 	BYTE write_buf[40] = { 0x41, 0x41, 0x41, 0x41 };
 	BYTE read_buf[40] = { 0 };
 
